@@ -1,3 +1,4 @@
+![Screenshot 2025-04-15 223038](https://github.com/user-attachments/assets/4b982f94-6a74-4a3b-af17-c6d799087475)
 Minikube Kubernetes Project
 # Project Overview
 This project demonstrates the deployment and management of a web application in Kubernetes using Minikube. The application is an Nginx web server, deployed with Kubernetes resources like Deployments and Services.
